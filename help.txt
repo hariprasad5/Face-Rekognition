@@ -1,0 +1,5 @@
+1)IAM Role to use s3 factory method without credentials and also to link to Amazon Rekognition service
+2)Port 443,80,22 enabled
+3)created a free domain name in freenom and Used DNS and amazon route 53 to link to AWS Domain
+4)Using Certbot we got HTTPS enabled for the website https://rekognitionfacepropert.cf for 1 year (1-04-2020 to 1-04-2021)
+5)Used Webhook to connect the telegram bot to the website
